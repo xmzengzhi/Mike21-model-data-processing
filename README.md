@@ -20,7 +20,7 @@ F3_2. matplotlib_Verification diagram_direction.py
 Draw a flow direction validation comparison chart in the model calculation results using the matplotlib library.
 
 F4. Mikeio_OS_affect_area.py
-Use the mikeio library to calculate the oil spill impact area in the model calculation results.
+Use the mikeio library to calculate the oil spill impact area in the model calculation results, and draw the contour map of the affected area of the oil spill.
 
 F5. Mikeio_OS_arrival_time.py
 Use the mikeio library to calculate the time and extent of oil spill impact reaching surrounding important sensitive areas in the model calculation results.
